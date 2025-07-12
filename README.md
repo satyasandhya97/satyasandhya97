@@ -1,3 +1,5 @@
+![logo](https://www.bloomberg.com/graphics/2024-opinion-ai-solution-big-tech-trust-problem/img/tech.jpg)
+
 # Hi 👋, I'm Satyasandhya Biswal
 
 🚀 A passionate **Full Stack Developer** who loves turning ideas into interactive and scalable web applications.  
