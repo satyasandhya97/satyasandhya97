@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi 👋, I'm Satyasandhya Biswal
+🚀 A passionate Full Stack Developer who loves turning ideas into interactive and scalable web applications.
+💻 I specialize in building end-to-end solutions using modern web technologies and clean, maintainable code.
 
-<!--
-**satyasandhya97/satyasandhya97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+💡 Always curious and driven to solve real-world problems through technology and innovation.
+🌱 Currently sharpening my skills in Javascript and exploring advanced full-stack development concepts.
+🛠️ Experienced in building dynamic UIs, REST APIs, and responsive web applications.
+💬 Ask me about JavaScript, Angular, React, Node.js, Tailwind CSS, or anything web development related!
+📫 Reach me at: satyasndhyabiswal97@gmail.com
+🚀 Tech Stack
+🔹 Languages & Frameworks:
+JavaScript, TypeScript
+React.js, Angular
+Node.js, Express.js
+🔹 UI & Styling:
+HTML5, CSS3
+Tailwind CSS, Bootstrap
+🔹 Tools & Platforms:
+Git & GitHub
+Postman
+(Exploring: Docker, Firebase)
+🌐 Let's Connect
+💼 LinkedIn
+🧑‍💻 GitHub: satyasandhya-biswal
+💬 Fun Fact
+I believe every line of code brings me one step closer to solving a bigger problem 🚀
