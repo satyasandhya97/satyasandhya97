@@ -1,4 +1,4 @@
-![logo](https://www.bloomberg.com/graphics/2024-opinion-ai-solution-big-tech-trust-problem/img/tech.jpg)
+![logo](https://media.licdn.com/dms/image/v2/D4D16AQFTB5eW6Wt9zg/profile-displaybackgroundimage-shrink_350_1400/B4DZaIEmcmG0Ac-/0/1746039632408?e=1757548800&v=beta&t=E_qfx-hVmIMVvDZ_MEWnXeS8QySDW4c1c2IC7zqDW_U)
 
 # Hi 👋, I'm Satyasandhya Biswal
 
