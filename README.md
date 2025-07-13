@@ -1,5 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D4D16AQFTB5eW6Wt9zg/profile-displaybackgroundimage-shrink_350_1400/B4DZaIEmcmG0Ac-/0/1746039632408?e=1757548800&v=beta&t=E_qfx-hVmIMVvDZ_MEWnXeS8QySDW4c1c2IC7zqDW_U)
-
+![logo](https://img.freepik.com/premium-vector/remote-work-illustration-work-from-home-concept_1090770-335.jpg)
 # Hi 👋, I'm Satyasandhya Biswal
 
 🚀 A passionate **Full Stack Developer** who loves turning ideas into interactive and scalable web applications.  
