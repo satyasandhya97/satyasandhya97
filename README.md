@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/premium-vector/remote-work-illustration-work-from-home-concept_1090770-335.jpg)
+![logo](https://github.com/satyasandhya97/satyasandhya97/blob/main/YouTube%20Banner%20-%20Code%20with%20Confidence.png)
 # Hi 👋, I'm Satyasandhya Biswal
 
 🚀 A passionate **Full Stack Developer** who loves turning ideas into interactive and scalable web applications.  
