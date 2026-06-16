@@ -10,7 +10,7 @@
 - 🌱 Currently sharpening my skills in **Javascript** and exploring advanced full-stack development concepts.
 - 🛠️ Experienced in building dynamic UIs, REST APIs, and responsive web applications.
 - 💬 Ask me about **JavaScript, Angular, React, Node.js, Tailwind CSS**, or anything web development related!
-- 📫 Reach me at: **satyasndhyabiswal97@gmail.com**
+- 📫 Reach me at: **satyasandhyabiswal@gmail.com**
 
 ---
 
